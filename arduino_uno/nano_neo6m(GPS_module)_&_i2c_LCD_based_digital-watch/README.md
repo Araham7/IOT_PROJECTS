@@ -165,6 +165,9 @@ void abc(int &hour, int &minute){
    Serial.println("");
 }
 ```
+# Working Model :
+<img src="./images/working_model.jpg" alt="working_model">
+
 # How to Use
 
 1. **Connect the Components**: Wire the GPS module and LCD display to the Arduino Nano according to the circuit diagram.
