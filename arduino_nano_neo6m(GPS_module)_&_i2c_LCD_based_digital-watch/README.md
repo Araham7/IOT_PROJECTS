@@ -170,3 +170,6 @@ void abc(int &hour, int &minute){
 - **No Display**: Check the wiring of the I2C LCD. Make sure the connections are correct and the I2C address in the code matches your LCD.
 - **No GPS Signal**: Ensure the GPS module has a clear view of the sky for satellite signals.
 
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
