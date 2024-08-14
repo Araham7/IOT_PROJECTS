@@ -158,3 +158,15 @@ void abc(int &hour, int &minute){
    Serial.println("Time = " + String(h)+":"+String(minutes)+" "+ AmPm );
    Serial.println("");
 }
+
+# How to Use
+
+1. **Connect the Components**: Wire the GPS module and LCD display to the Arduino Nano according to the circuit diagram.
+2. **Upload the Code**: Upload the provided Arduino code to your Arduino Nano using the Arduino IDE.
+3. **Power Up**: Power the Arduino Nano. The LCD will start displaying the current time and date obtained from the GPS module.
+
+# Troubleshooting
+
+- **No Display**: Check the wiring of the I2C LCD. Make sure the connections are correct and the I2C address in the code matches your LCD.
+- **No GPS Signal**: Ensure the GPS module has a clear view of the sky for satellite signals.
+
