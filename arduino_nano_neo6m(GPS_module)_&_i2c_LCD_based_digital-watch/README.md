@@ -25,6 +25,9 @@ Here’s how to wire the components:
   - SDA -> A4 (Arduino)
   - SCL -> A5 (Arduino)
 
+# Circuit_Diagram
+<img src="./images/circuit_diagram.jpeg" alt="circuit_diagram">
+
 ## Code
 
 Here’s the Arduino code to get started:
