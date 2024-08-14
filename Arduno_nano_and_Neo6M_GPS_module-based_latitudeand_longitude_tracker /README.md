@@ -12,8 +12,8 @@ Source Code :
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
 
-#define rxPin 4
-#define txPin 3
+#define rxPin 3
+#define txPin 4
 
 TinyGPSPlus gps;
 
