@@ -16,7 +16,7 @@ Here’s how to wire the components:
 - **Neo-6M GPS Module:**
   - VCC -> 5V (Arduino)
   - GND -> GND (Arduino)
-  - TX -> D2 (Arduino)
+  - TX -> D4 (Arduino)
   - RX -> D3 (Arduino)
 
 - **I2C LCD Display:**
