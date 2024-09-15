@@ -21,12 +21,11 @@ The block diagram for the project can be outlined as follows:
 # Hardware
 
 <img src="./Images/hardware.jpeg" alt="hardware" >
-  
 <br>
-
-# Wiring
-
-
+# esp32_pinout
+<img src="./Images/esp32_pin_number_with_detailes_of_gpio.jpeg" alt="esp32_pinout">
+<br>
+# Wiring :---
 
 <br>
 
