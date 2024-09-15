@@ -33,6 +33,7 @@ The block diagram for the project can be outlined as follows:
 <br>
 
 # Wiring :--- 
+Loading......
 
 <br>
 
