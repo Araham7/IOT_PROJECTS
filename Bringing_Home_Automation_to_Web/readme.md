@@ -21,14 +21,34 @@ The block diagram for the project can be outlined as follows:
 # Hardware
 
 <img src="./Images/hardware.jpeg" alt="hardware" >
+
+> **NOTE:**
+> Please ignore the switches. I plan to use them for manually controlling the A.C. appliance as well as through the webpage, but currently, they have no use.
+
 <br>
 
 # esp32_pinout
 <img src="./Images/esp32_pin_number_with_detailes_of_gpio.jpeg" alt="esp32_pinout">
-<br>
-# Wiring :---
 
 <br>
+
+# Wiring :--- 
+
+<br>
+
+# Components required :
+ESP32 (38-pin)
+Relay Module (5V, dual channel)
+Jumper Wires
+5 Volt External Power Supply (optional)
+
+# Wiring Connections:
+Relay VCC → ESP32 3.3V
+Relay GND → ESP32 GND
+Relay IN_1 → ESP32 GPIO 2
+Relay IN_2 → ESP32 GPIO 15
+Relay out_1 → A.C_Appliance_1
+Relay out_2 → A.C_Appliance_2
 
 # UI to Control Electric Appliances
 
@@ -57,7 +77,7 @@ The ESP32 microcontroller serves as a bridge between the web interface and the r
 - **Energy Monitoring**: Integrating sensors to monitor energy consumption of the appliances and display real-time data to the user.
 - **Energy Monitoring**: We can increase the number of real and gpio pins _Using a GPIO Expander_
 
-## code :
+## Source Code :
 ```cpp
 ```cpp
 #include <WiFi.h>
