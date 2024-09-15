@@ -4,6 +4,8 @@ Home automation systems are becoming increasingly popular, offering convenience,
 
 # Block Diagram
 
+<img src="./Images/block_diagram.jpeg" alt="block_diagram">
+
 The block diagram for the project can be outlined as follows:
 
 - **ESP32 Microcontroller:** Acts as the brain of the system, controlling the relays and connecting to the web server.
