@@ -1,6 +1,6 @@
 # Introduction
 
-Home automation systems are becoming increasingly popular, offering convenience, security, and energy efficiency by allowing users to control home appliances remotely. This project, titled **"Bringing Home Automation to Web: A Full Stack Approach,"** leverages the ESP32 microcontroller and a channel relay module to control home appliances via a web interface. By integrating both hardware and software, users can operate devices like lights, fans, or other home electronics through a responsive web interface, making it an affordable and scalable solution for smart homes.
+Home automation systems are becoming increasingly popular, offering convenience, security, and energy efficiency by allowing users to control home appliances remotely. This project, titled **"Bringing Home Automation to Web: A Full Stack Approach,"** leverages the ESP32 microcontroller and two channel relay module to control home appliances via a web interface. By integrating both hardware and software, users can operate devices like lights, fans, or other home electronics through a responsive web interface, making it an affordable and scalable solution for smart homes.
 
 # Block Diagram
 
@@ -13,6 +13,12 @@ The block diagram for the project can be outlined as follows:
 - **Web Server:** Hosted on the ESP32 or a cloud server, the server allows communication between the user and the hardware.
 - **Web Client:** A user-friendly interface accessible via any browser to control the appliances.
 - **Home Appliances:** Devices like lights, fans, and other electronics controlled via relays.
+
+<br>
+
+# Hardware
+
+<img src="./Images/hardware.jpeg" alt="hardware">
   
 <br>
 
