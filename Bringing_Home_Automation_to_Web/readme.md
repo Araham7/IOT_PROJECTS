@@ -24,6 +24,12 @@ The block diagram for the project can be outlined as follows:
   
 <br>
 
+# Wiring
+
+
+
+<br>
+
 # UI to Control Electric Appliances
 
 <img src="./Images/UI.jpeg" alt="user_interface" height="700px">
