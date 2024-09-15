@@ -13,6 +13,12 @@ The block diagram for the project can be outlined as follows:
 - **Web Server:** Hosted on the ESP32 or a cloud server, the server allows communication between the user and the hardware.
 - **Web Client:** A user-friendly interface accessible via any browser to control the appliances.
 - **Home Appliances:** Devices like lights, fans, and other electronics controlled via relays.
+  
+<br>
+
+# UI to Control Electric Appliances
+
+<img src="./Images/UI.jpeg" alt="user_interface">
 
 # Working Principle
 
