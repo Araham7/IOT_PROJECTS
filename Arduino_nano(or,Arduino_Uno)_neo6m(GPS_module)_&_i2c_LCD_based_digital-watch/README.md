@@ -1,4 +1,4 @@
-# Arduino Nano/Uno Neo-6M GPS Module & I2C LCD Based Digital Watch
+# Arduino GPS Clock
 
 This project demonstrates how to create a digital watch using an Arduino Nano, a Neo-6M GPS module, and an I2C LCD display. The watch will display the current time and date obtained from the GPS module on the LCD screen.
 
