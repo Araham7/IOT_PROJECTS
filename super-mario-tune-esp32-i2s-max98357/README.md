@@ -270,6 +270,13 @@ Volume is internally scaled to avoid clipping on 16-bit audio.
 * Square wave generation toggles between `+amplitude` and `-amplitude`
 * Silence is represented with zero values for both channels
 
+## Video Link : 
+
+<a href="https://youtube.com/shorts/ADMT5xilM9w?si=s5NI9hk7cQvO9r5N" target="_blank" title="Click to watch ESP32 play the Mario theme using MAX98357">
+  <img src="./IMAGES/all_components_02.jpeg" alt="ESP32 playing Mario theme using MAX98357 I2S amplifier" title="Click me to Watch the demo video">
+</a>
+
+
 ## Adjustments
 
 * Change `tempo` to speed up or slow down the melody
